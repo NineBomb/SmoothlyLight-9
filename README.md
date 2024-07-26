@@ -1,2 +1,2 @@
-# SmoothlyLight-9
-Smoothly light lua for Mi Band9
+# 缓慢亮屏for小米手环9
+适用于小米手环9的缓慢亮屏lua文件
